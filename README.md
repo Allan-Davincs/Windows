@@ -22,5 +22,3 @@ If your updates are stuck, failing, or slow — these commands will help you for
 wuauclt /detectnow
 wuauclt /updatenow
 
-
-#THe REPO IS ON MAINTENANCE 
